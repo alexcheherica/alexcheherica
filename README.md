@@ -9,13 +9,12 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,mysql,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,mysql,git,figma,eclipse,idea,vscode)](https://skillicons.dev)
   
 </div>
 
 <hr>
 
-<!-- GitHub Stats -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexcheherica&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Gildácio Lopes GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcheherica&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
@@ -31,12 +30,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexcheherica/alexcheherica/output/dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexcheherica/alexcheherica/output/dist/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexcheherica/alexcheherica/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexcheherica/alexcheherica/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-
- 
     
     
