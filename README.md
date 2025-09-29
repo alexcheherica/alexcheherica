@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Sou+a+Tchê!+%F0%9F%98%81;Sou+Desenvolvedora+FullStack+Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Sou+a+Tchê!+%F0%9F%98%81;Sou+Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
 <h1>👩‍💻 Sobre mim: </h1>
 
 - 🎓 <strong>Graduanda</strong> em Ciências da Computação - FAM
-- ☕ <strong>Desenvolvedora FullStack Java em Formação</strong>
+- ☕ <strong>Desenvolvedora FullStack em Formação</strong>
 
 <h2>☕ Minhas Habilidades: </h2>
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,mysql,git,figma,eclipse,idea,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,html,css,js,aws,azure,postgres,git,figma,eclipse,idea,vscode)](https://skillicons.dev)
+
   
 </div>
 
